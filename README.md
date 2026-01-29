@@ -4,8 +4,9 @@ A Java-based console application designed for academic course management. The sy
 
 ---
 
-🚀 Key Features
-Dual User Perspectives:
+# 🚀 Key Features
+
+# Dual User Perspectives:
 Students: Can list available courses based on their level, enroll in courses, and view their personalized schedules.
 Admins: Have the authority to add new courses to the system and verify existing course lists.
 Dynamic Course Management: Uses LinkedList and ArrayList structures to handle course data efficiently at runtime.
